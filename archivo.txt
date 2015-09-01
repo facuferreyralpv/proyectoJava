@@ -1,0 +1,15 @@
+Ropa:   Remera
+Estilo:     Moda
+Talle:     S
+Precio:    $156
+---------------------------------
+Ropa:   Short
+Estilo:     Moda
+Talle:     S
+Precio:    $132
+---------------------------------
+Ropa:   Buzo
+Estilo:     Moda
+Talle:     S
+Precio:    $240
+---------------------------------
